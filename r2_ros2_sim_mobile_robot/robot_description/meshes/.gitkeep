@@ -1,0 +1,6 @@
+# Meshes Directory
+
+This directory is intended to contain 3D mesh files for robot visualization.
+Currently, the robot uses simple geometric shapes (boxes, cylinders, spheres).
+If you want to use custom 3D models, place .dae or .stl files here and reference
+them in the URDF file.

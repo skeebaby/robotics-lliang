@@ -1,0 +1,7 @@
+# Diagrams Directory
+
+This directory is intended to contain system diagrams:
+- system_overview.png: High-level system architecture diagram
+- ros_graph.png: ROS2 node communication graph
+
+Place your diagram files here.
